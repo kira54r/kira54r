@@ -1,101 +1,12 @@
-<div align="center">
+Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Кира ========================================================== =========================================================== Студент Бакалавр ---------------- Просто самый обычный студент, который изучает профиль на github. * 🌍Я живу в Уфе * ✉️Связаться со мной можно по адресу [kyack8064@gmail.com](mailto:kyack8064@gmail.com) * 🧠Сейчас учусь, как работает github. * 💬 Спросите меня о Очень люблю цветные вещи, а они меня нет.
 
-<img src="src/images/logo.png" height="80" />
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src= "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+</p>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
 
-# Github Profilinator
+### Социальные сети
 
-Generate creative GitHub profile readmes in few click!
-
-<img src="https://img.shields.io/github/license/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/forks/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues/rishavanand/github-profilinator?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues-pr/rishavanand/github-profilinator?style=for-the-badge">
-
-<br />
-<br />
-
-<a href="https://profilinator.rishav.dev/" target="_blank">View Generator</a> · <a href="http://github.com/rishavanand" target="_blank">View Generated Profile</a> · <a href="https://github.com/rishavanand/github-profilinator/issues/new/choose" target="_blank">Report Bug</a> · <a href="https://github.com/rishavanand/github-profilinator/issues/new/choose" target="_blank">Request Feature</a>
-
-_Loved the project? Show your love to the developer by starring this repo._
-
-<br />
-
-<img src="src/images/demo.gif" style="width: 80%"/>
-
-</div>
-
----
-
-This project is aimed to simplify your GitHub profile generation process by providing creative components from all over the web which can be added in a few click. In the end, with the click of a button, markdown is auto-generated which you can directly add to your readmes.
-
----
-
-## 🧐 Feature list
-
--   [x] Image and text fields have multiple options like alignment, sizes, fit to screen
--   [x] Skill set filed
--   [x] Social badges field
--   [x] GitHub activity and language stats
--   [x] Dynamic blog posts
--   [x] Visitor counter
--   [x] Init with demo template
--   [x] Multi column support
--   [x] Customizable blocks and layouts
--   [x] Listening to from Spotify
--   [x] Multi template
--   [ ] Last tweet from Twitter
--   [ ] Last 3 uploads from Instagram
-
-## 🚀 Getting started
-
-This project is already deployed on <a href="https://profilinator.rishav.dev/" target="_blank">https://profilinator.rishav.dev</a>
-
-Instructions for local deployment are given below:
-
-1. Clone the repository
-
-```
-git clone git@github.com:rishavanand/github-profilinator.git
-```
-
-2. Enter the project directory
-
-```
-cd github-profilinator
-```
-
-3. Install dependencies
-
-```
-npm i
-```
-
-4. Start local dev server
-
-```
-npm start
-```
-
-5. View local deployment at [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
-## 💫 Built on the shoulders of giants
-
--   [amazing github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by Anurag Hazra for creating detailed statistics
--   [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) by Anton Komarev for simplifying visitor counter
--   [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow) by Gautam Krishna R which is a Genius use of Github Actions.
--   [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) by Kittinan which generated Spotify's currently listening album cover image.
-
-NOTE : All the logos/icons belong to their respective owners , we don't own them.
-
-## :heart: Supporting the project
-
-A simple star to this project repo is enough to keep me motivated on this project for days. If you find your self very much excited with this project let me know with a tweet.
-
-Thanks!
-
-Contributions are welcomed!
+<p align="left"> <a href="https://www.github.com/kira54r" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture></a> <a href="https://www.twitch.tv/kyack80" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture></a> <a href="https://discord.com/users/kuyckna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" <img srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+<a href="https://www.twitch.tv/kyack80" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/kyack80?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Значки
